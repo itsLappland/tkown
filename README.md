@@ -1,5 +1,5 @@
 # tkown
-Batch script to conveniently take ownership of system files via the command line.
+Batch script to conveniently take ownership of system files via the command line. Tested to work properly on Windows Vista and above.
 # Installation
 Download the tkown.bat file from the Releases page, then put it into PATH.
 # Usage
